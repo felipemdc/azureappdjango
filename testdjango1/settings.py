@@ -25,7 +25,7 @@ SECRET_KEY = ')a8=xd9h-u_#psuka_4fv@gzpsekh^)2swehaxqt&ril_=a5pk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['felipemdcdjango1.azurewebsites.net']
 
 
 # Application definition
